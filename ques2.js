@@ -3,5 +3,5 @@
 //    `"JavaScript's strings can contain special characters like \" and \'."`  
 //    Print the variable to verify the escape characters work as intended.
 // // --- -->
-const sentence = "JavaScript's strings can contain special characters like \" and \'."
+const sentence = "JavaScript's strings can contain special characters like \" and \'.";
 console.log(sentence);
